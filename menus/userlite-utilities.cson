@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'UL URL userlite-utilities'
+      'command': 'userlite-utilities:ulURL'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'userlite-utilities'
+      'submenu': [
+        {
+          'label': 'UL URL'
+          'command': 'userlite-utilities:ulURL'
+        }
+      ]
+    ]
+  }
+]

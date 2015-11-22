@@ -1,0 +1,16 @@
+{
+    "name": "userlite-utilities",
+    "main": "./lib/userlite-utilities",
+    "version": "0.0.0",
+    "description": "A short description of your package",
+    "keywords": [],
+    "activationCommands": {
+        "atom-workspace": "userlite-utilities:ulURL"
+    },
+    "repository": "https://github.com/atom/userlite-utilities",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
