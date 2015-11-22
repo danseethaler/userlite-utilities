@@ -2,7 +2,7 @@
     "name": "userlite-utilities",
     "main": "./lib/userlite-utilities",
     "version": "0.0.0",
-    "description": "A short description of your package",
+    "description": "Atom Utilities for Userlite Developers",
     "keywords": [],
     "activationCommands": {
         "atom-workspace": "userlite-utilities:ulURL"
