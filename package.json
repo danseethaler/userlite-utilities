@@ -7,7 +7,7 @@
     "activationCommands": {
         "atom-workspace": "userlite-utilities:ulURL"
     },
-    "repository": "https://github.com/atom/userlite-utilities",
+    "repository": "https://github.com/danseethaler/userlite-utilities",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
