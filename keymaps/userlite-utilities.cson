@@ -9,3 +9,4 @@
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
   'shift-cmd-u': 'userlite-utilities:ulURL'
+  'shift-cmd-x': 'userlite-utilities:nav-xEnd'
