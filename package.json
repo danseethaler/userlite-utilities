@@ -1,16 +1,22 @@
 {
-  "name": "userlite-utilities",
-  "main": "./lib/userlite-utilities",
-  "version": "0.1.0",
-  "description": "Atom Utilities for Userlite Developers",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": ["userlite-utilities:ulURL","userlite-utilities:nav-current","userlite-utilities:nav-xEnd"]
-  },
-  "repository": "https://github.com/danseethaler/userlite-utilities",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {}
+    "name": "userlite-utilities",
+    "main": "./lib/userlite-utilities",
+    "version": "0.1.0",
+    "description": "Atom Utilities for Userlite Developers",
+    "keywords": [],
+    "activationCommands": {
+        "atom-workspace": [
+            "userlite-utilities:ulURL",
+            "userlite-utilities:nav-current",
+            "userlite-utilities:nav-xEnd"
+        ]
+    },
+    "repository": "https://github.com/danseethaler/userlite-utilities",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+        "fs-extra": "^0.26.2"
+    }
 }
