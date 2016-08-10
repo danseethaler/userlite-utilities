@@ -10,3 +10,5 @@
 'atom-workspace':
   'shift-cmd-e': 'userlite-utilities:ulURL'
   'shift-cmd-x': 'userlite-utilities:nav-xEnd'
+  'shift-cmd-k': 'userlite-utilities:Cleanup'
+  'cmd-shift-c': 'userlite-utilities:nav-current'
