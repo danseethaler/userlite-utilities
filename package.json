@@ -1,7 +1,7 @@
 {
   "name": "userlite-utilities",
   "main": "./lib/userlite-utilities",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Atom Utilities for Userlite Developers",
   "keywords": [],
   "repository": "https://github.com/danseethaler/userlite-utilities",
