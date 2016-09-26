@@ -9,6 +9,10 @@
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
   'shift-cmd-e': 'userlite-utilities:ulMasterUrl'
+  'shift-ctrl-e': 'userlite-utilities:ulMasterUrl'
   'shift-cmd-x': 'userlite-utilities:navMaster-xEnd'
+  'shift-ctrl-x': 'userlite-utilities:navMaster-xEnd'
   'shift-cmd-k': 'userlite-utilities:Cleanup'
+  'shift-ctrl-k': 'userlite-utilities:Cleanup'
   'cmd-shift-c': 'userlite-utilities:nav-current'
+  'ctrl-shift-c': 'userlite-utilities:nav-current'
