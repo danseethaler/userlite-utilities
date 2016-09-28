@@ -16,3 +16,5 @@
   'shift-ctrl-k': 'userlite-utilities:Cleanup'
   'cmd-shift-c': 'userlite-utilities:nav-current'
   'ctrl-shift-c': 'userlite-utilities:nav-current'
+  'ctrl-[': 'userlite-utilities:Show-PrintPre'
+  'ctrl-]': 'userlite-utilities:Hide-PrintPre'
