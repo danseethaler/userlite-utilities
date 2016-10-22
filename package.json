@@ -1,23 +1,23 @@
 {
-    "name": "userlite-utilities",
-    "main": "./lib/userlite-utilities",
-    "version": "1.1.0",
-    "description": "Code lightning fast, Userlite style.",
-    "keywords": [],
-    "repository": "https://github.com/danseethaler/userlite-utilities",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "consumedServices": {
-        "status-bar": {
-            "versions": {
-                "^1.0.0": "consumeStatusBar"
-            }
-        }
-    },
-    "dependencies": {
-        "fs-extra": "^0.26.2",
-        "is-valid-path": "^0.1.1"
+  "name": "userlite-utilities",
+  "main": "./lib/userlite-utilities",
+  "version": "1.2.0",
+  "description": "Code lightning fast, Userlite style.",
+  "keywords": [],
+  "repository": "https://github.com/danseethaler/userlite-utilities",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
     }
+  },
+  "dependencies": {
+    "fs-extra": "^0.26.2",
+    "is-valid-path": "^0.1.1"
+  }
 }
