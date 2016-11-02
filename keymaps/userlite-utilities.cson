@@ -12,3 +12,4 @@
   'shift-ctrl-k': 'userlite-utilities:Cleanup'
   'ctrl-cmd-[': 'userlite-utilities:Show-PrintPre'
   'ctrl-cmd-]': 'userlite-utilities:Hide-PrintPre'
+  'ctrl-alt-cmd-d': 'userlite-utilities:backoff-multi-select'
