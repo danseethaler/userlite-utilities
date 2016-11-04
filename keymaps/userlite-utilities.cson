@@ -7,9 +7,10 @@
 
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
-'atom-workspace':
-  'shift-cmd-k': 'userlite-utilities:Cleanup'
-  'shift-ctrl-k': 'userlite-utilities:Cleanup'
-  'ctrl-cmd-[': 'userlite-utilities:Show-PrintPre'
-  'ctrl-cmd-]': 'userlite-utilities:Hide-PrintPre'
-  'ctrl-alt-cmd-d': 'userlite-utilities:backoff-multi-select'
+'atom-text-editor:not([mini])':
+    'shift-cmd-k': 'userlite-utilities:Cleanup'
+    'shift-ctrl-k': 'userlite-utilities:Cleanup'
+    'ctrl-cmd-[': 'userlite-utilities:Show-PrintPre'
+    'ctrl-cmd-]': 'userlite-utilities:Hide-PrintPre'
+    'escape': 'userlite-utilities:backoff-multi-select'
+    'shift-escape': 'userlite-utilities:remove-multi-select'

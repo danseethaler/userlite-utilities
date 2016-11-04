@@ -1,9 +1,11 @@
 # userlite-utilities package
 
-Atom Utilities for Userlite Developers
+Wizard-like coding tools for Userlite Developers
 
 ### Features
 
-- Convert Userlite URL to code path for fuzzy-finder
-- Automatically navigate to current file on remote file tree
-- Automatically navigate to front-end/back-end of current file
+- Quickly convert a `hashFrag` string into an object literal
+- Gracefully back off multiple selections by hitting `esc`
+- Jump back to a single selection with `shift-esc`
+- Get valuable status-bar indicators of dev code like `printPre`
+- Clean your code to quickly tidy up file structure and syntax
