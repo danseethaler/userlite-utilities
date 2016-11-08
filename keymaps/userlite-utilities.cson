@@ -14,3 +14,5 @@
     'ctrl-cmd-]': 'userlite-utilities:Hide-PrintPre'
     'escape': 'userlite-utilities:backoff-multi-select'
     'shift-escape': 'userlite-utilities:remove-multi-select'
+    'cmd-;': 'userlite-utilities:insert-arrow'
+    'cmd-alt-;': 'userlite-utilities:insert-fat-arrow'
