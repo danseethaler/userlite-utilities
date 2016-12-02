@@ -1,7 +1,7 @@
 {
   "name": "userlite-utilities",
   "main": "./lib/userlite-utilities",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Code lightning fast, Userlite style.",
   "keywords": [],
   "repository": "https://github.com/danseethaler/userlite-utilities",
