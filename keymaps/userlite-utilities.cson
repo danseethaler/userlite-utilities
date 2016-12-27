@@ -8,8 +8,6 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-text-editor:not([mini])':
-    'shift-cmd-k': 'userlite-utilities:Clean'
-    'shift-ctrl-k': 'userlite-utilities:Clean'
     'ctrl-cmd-[': 'userlite-utilities:Show-PrintPre'
     'ctrl-cmd-]': 'userlite-utilities:Hide-PrintPre'
     'escape': 'userlite-utilities:remove-multi-select'

@@ -8,4 +8,3 @@ Wizard-like coding tools for Userlite Developers
 - Gracefully back off multiple selections by hitting `esc`
 - Jump back to a single selection with `shift-esc`
 - Get valuable status-bar indicators of dev code like `printPre`
-- Clean your code to quickly tidy up file structure and syntax
