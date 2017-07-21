@@ -4,7 +4,7 @@
   "version": "2.2.0",
   "description": "Code lightning fast, Userlite style.",
   "keywords": [],
-  "repository": "https://github.com/danseethaler/userlite-utilities",
+  "repository": "https://github.com/userlite/userlite-utilities",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
